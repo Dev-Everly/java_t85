@@ -2,7 +2,7 @@ package exercicios_aula02;
 
 import java.util.Scanner;
 
-public class exec_01 {
+public class Exec_01 {
 
 	public static void main(String[] args) {
 		
@@ -23,7 +23,7 @@ public class exec_01 {
 		
 		
 		
-		
+		leia.close();
  
 	}
 
