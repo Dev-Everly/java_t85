@@ -56,7 +56,7 @@ public class Exec04While {
 				}else if((identidadeGenero == 2 || identidadeGenero ==5 )&&  idade > 40) {
 				 
 					contaodorCis_masc++;
-				}else if((identidadeGenero == 3 || pessoaDev == 4) && idade < 30) {
+				}else if((identidadeGenero == 3 && pessoaDev == 4) && idade < 30) {
 					contadorBi_full++;
 				}
 			
