@@ -1,4 +1,4 @@
-package pratica_avaliada_02;
+package exec_01;
 
 import java.util.ArrayList;
 import java.util.Scanner;
